@@ -1317,3 +1317,7 @@ My name is [Oleksandr](https://github.com/sashakom) Nice to meet you
 # Hi Kottans!
 
 My name is [Sasha](https://github.com/askuznetsov) Nice to study with you :)
+
+# Hi Kottans!
+
+My name is [Ihor](https://github.com/bukvarik) Nice to meet you :)
